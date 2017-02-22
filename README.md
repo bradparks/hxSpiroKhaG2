@@ -7,4 +7,5 @@ hxSpiro example using justTriangles with Kha g2.
 - haxelib git justTriangles https://github.com/nanjizal/justTriangles.git
 - haxelib git hxSpiro https://github.com/nanjizal/hxSpiro.git
 - haxelib install zui
+- add 'Assets' folder and put Abel_Regular.ttf font inside
 - Then use this source folder instead.
