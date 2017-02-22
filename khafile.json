@@ -1,0 +1,7 @@
+let project = new Project('Empty');
+project.addSources('Sources');
+project.addAssets('Assets/**');
+project.addLibrary('justTriangles');
+project.addLibrary('hxSpiro');
+project.addLibrary('zui');
+resolve(project);
